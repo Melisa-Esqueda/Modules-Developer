@@ -5,4 +5,4 @@ Work contributions can be seen in the following links:
 
 Air Quality Project: https://github.com/ds-modules/air-quality
 
-Civil and Environmental Engineering Course: https://github.com/ds-modules/CIVENG-119
+Civil and Environmental Engineering Course: https://github.com/ds-modules/CIVENG-119 (Check out notebook 1)
